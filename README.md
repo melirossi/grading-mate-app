@@ -68,7 +68,7 @@ Se implementó como un marco de trabajo que dividió el desarrollo de GradeMate 
           2. Cálculo automático de promedios numéricos.
           3. Determinación del estado del alumno (aprobado o reprobado).
           4. Visualización del último promedio calculado y datos del alumno.
-          5.  Seguridad de inicio de sesión con contraseña.
+          5. Seguridad de inicio de sesión con contraseña.
     ➡️ Sprint Planning:
           1. Se definieron dos Sprints de una semana cada uno. En el primero se seleccionaron las funcionalidades de registro y 
           gestión de alumnos y materias, el cálculo automático de promedios numéricos, y ela determinación del estado del alumno 
@@ -109,7 +109,7 @@ Se implementó como un marco de trabajo que dividió el desarrollo de GradeMate 
 Kanban se utilizó como una herramienta de gestión visual para el seguimiento y control del flujo de trabajo. Se creó un tablero Kanban en Trello que representaba las tareas pendientes, en progreso y completadas. Cada funcionalidad y tarea relacionada con el desarrollo de GradeMate se representó como una tarjeta en el tablero Kanban. Se fueron moviendo tarjetas a través del tablero a medida que se avanzaba en las tareas, lo que permitió una supervisión constante y una distribución equitativa de la carga de trabajo diaria. Kanban facilitó la identificación de cuellos de botella, la priorización de tareas y la entrega de funcionalidades de manera incremental.
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=gf3h4fw_1DQ" target="blank"><img align="center" src="https://img.shields.io/badge/Link_pizarra_Kanban-FC7800?style=for-the-badge" alt="LinkProyecto"/></a>
+<a href="https://trello.com/invite/b/O6U8nv9P/ATTI6c0e57b0c05367a873c66691e0051966692BE292/grademate-app" target="blank"><img align="center" src="https://img.shields.io/badge/Link_pizarra_Kanban-FC7800?style=for-the-badge" alt="LinkProyecto"/></a>
 </p>
 
 <br>

@@ -80,7 +80,29 @@ Se implementó como un marco de trabajo que dividió el desarrollo de GradeMate 
         Al final de cada Sprint, se revisó lo que se logro hacer se ajustó la planificación para el próximo Sprint si es necesario. 
         También se reflexionó sobre lo que funcionó y lo que se podría mejorar.
 
+##### 📆  SPRINT 1: Registro y Gestión de Alumnos y Materias
 
+Día 1 (Sprint planning): Definí las funcionalidades clave para el primer Sprint: registro y gestión de alumnos y materias, cálculo automático de promedios numéricos y determinación del estado del alumno. Establecí un Sprint de una semana para lograr estos objetivos.
+
+Día 2 (Daily standup): Durante la reunión diaria, revisé el progreso del día anterior y confirmé que había configurado la estructura inicial para el registro de alumnos y materias. Establecí como objetivo para el día siguiente avanzar en la lógica de registro y empezar a diseñar la interfaz de usuario.
+
+Día 3 (Daily standup): Avancé con la interfaz de usuario y la lógica de registro, permitiendo a los usuarios ingresar nombres de alumnos, materias y la cantidad de calificaciones que desean ingresar. Para el próximo día, planeé completar la lógica de registro y comenzar a trabajar en el cálculo automático de promedios numéricos.
+
+Día 4 (Daily Standup): Implementé el cálculo automático de promedios numéricos y su redondeo a dos decimales. También apliqué controles para evitar que el usuario ingrese opciones de menú incorrectas o calificaciones fuera de un rango determindo. Finalmente, completé las funcionalidades de las opciones 1 y 2 del menú.
+
+Día 5 (Sprint review y retrospectiva): Al final del Sprint de una semana, revisé lo logrado. Implementé con éxito la funcionalidad de registro y gestión de alumnos y materias, así como el cálculo automático de promedios numéricos. También, completé las opciones 1 y 2 del menú. Reflexioné sobre lo que funcionó y lo que necesita mejoras. Funcionó bien completar las funcionalidades principales, pero noté la necesidad de mejorar la interfaz de usuario con mensajes de bienvenida y de despedida.
+
+##### 📆 SPRINT 2: Visualización de Datos del Alumno y Seguridad de Inicio de Sesión
+
+Día 1 (Sprint Planning): En el segundo Sprint de una semana, definí dos nuevas funcionalidades, visualización del último promedio calculado y datos del alumno, y seguridad de inicio de sesión con contraseña. Establecí objetivos claros para cada funcionalidad.
+
+Día 2 (Daily Standup): Comencé a trabajar en la visualización de datos del alumno, permitiendo a los usuarios ver los promedios y detalles de los estudiantes ingresados previamente. Incorporé la funcionalidad de un mensaje que avise que previamente no se han ingresado datos en la sesión en el caso que seleccione esta opción antes de ingresar cualquier dato. Planifiqué abordar la seguridad de inicio de sesión al día siguiente.
+
+Día 3 (Daily Standup): Comencé a trabajar en la seguridad de inicio de sesión, implementando un sistema de contraseñas seguras. Para el próximo día, planeé finalizar la seguridad de inicio de sesión y completar detalles de la aplicación como repetición del menú hasta seleccionar la opción de salir y mensajes personalizados. 
+
+Día 4 (Daily Standup): Implementé la funcionalidad de permitir ingresar tres contraseñas y luego que se bloquee la sesión. También añadí mensajes personalizados, limpiar la pantalla y la opción de repetir el menú hasta seleccionar la opción de salir. Finalmente, realicé pruebas exhaustivas para determinar que no haya ningún error. Finalmente, se creó el repositorio de GitHub y se subió el pseudocódigo generado a este repositorio. 
+
+Día 5 (Sprint Review y Retrospectiva): Al final del segundo Sprint, revisé lo logrado. Implementé la visualización de datos del alumno y la seguridad de inicio de sesión con contraseña. Reflexioné sobre lo que funcionó y lo que necesita mejoras. Funcionó bien completar las funcionalidades planificadas, y noté que la interfaz de usuario es aún más amigable. Noté que se podría mejorar la aplicación implementando una base de datos para almacenar la información de los alumnos, notas y registros históricos. Esto permitirá mantener un registro completo y duradero de los datos de los estudiantes. También, ampliar la funcionalidad de gestión de usuarios para permitir que varios docentes tengan cuentas separadas y acceso a sus propios registros de alumnos. Además, incorporar herramientas de análisis de datos que ayuden a los docentes a identificar tendencias y patrones en el desempeño de los estudiantes.
 
 
 

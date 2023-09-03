@@ -114,18 +114,21 @@ Kanban se utilizó como una herramienta de gestión visual para el seguimiento y
 
 <br>
 
-### Resources used:
+### Recursos utilizados:
 
-![Spring](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PseInt](https://img.shields.io/badge/PseInt-5E8B7E?style=for-the-badge&logo=PseInt&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-181717?style=for-the-badge&logo=scrum&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0093E0?style=for-the-badge&logo=kanban&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
 
-### I'd love to hear from you!
+<br>
 
-If you have any question, comments, or suggestions, do not hesitate to contact me (melisa.s.rossi@gmail.com). 
+### ¡Me encantaría saber de ti!
+
+Si tienes alguna pregunta, comentario o sugerencia, no dudes en contactarme (melisa.s.rossi@gmail.com). 
 
 <p align="center">
 <a href="mailto:melisa.s.rossi@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=AAE2FC&color=9C9C9C" alt="Gmail"/></a>
